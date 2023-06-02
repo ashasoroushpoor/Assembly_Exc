@@ -1,0 +1,6 @@
+nasm -f elf64 ./HW3.asm -g -F dwarf && ld -m elf_x86_64 -o ./HW3 -e _start ./HW3.o && ./HW3
+
+
+gdb var 
+x/ncb $var
+n is number of bytes

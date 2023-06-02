@@ -1,0 +1,11 @@
+*
+!/**/
+!*.*
+!*/
+!README
+!Makefile
+!INSTALL
+!COPYING
+!LICENSE
+
+*.o
